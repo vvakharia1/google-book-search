@@ -1,0 +1,19 @@
+{
+  "name": "google-book-search",
+  "version": "1.0.0",
+  "description": "A React app that unitilizes the Google Books API to display information based on user search",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vvakharia1/google-book-search.git"
+  },
+  "author": "Vidhi Vakharia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vvakharia1/google-book-search/issues"
+  },
+  "homepage": "https://github.com/vvakharia1/google-book-search#readme"
+}
