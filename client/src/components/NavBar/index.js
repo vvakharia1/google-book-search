@@ -1,7 +1,7 @@
 import React from "react";
 
 const navstyle = {
-  backgroundColor: "#D9002A"
+  backgroundColor: "#D9002B"
 };
 
 function Nav() {
