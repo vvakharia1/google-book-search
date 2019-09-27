@@ -3,7 +3,6 @@ import Search from "./pages/Search";
 import Landing from "./pages/Home";
 
 // routes
-import { Redirect } from "react-router-dom";
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 
 function App() {

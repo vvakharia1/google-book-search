@@ -1,9 +1,5 @@
 import React from "react";
 
-const submitBtn = {
-  background: "#F2F2FF"
-};
-
 // This file exports all components
 export function Input(props) {
   return (

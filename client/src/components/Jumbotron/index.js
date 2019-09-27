@@ -1,13 +1,11 @@
 import React from "react";
-import { BrowserRouter as Router, Link } from "react-router-dom";
-import image from "../../assets/images/pages.jpg";
+import { BrowserRouter as Link } from "react-router-dom";
 
 const buttons = {
   margin: "1rem"
 };
 
 const backgroundImage = {
-  backgroundImage: `url(${image})`,
   height: "300",
   clear: "both",
   paddingTop: "120",
