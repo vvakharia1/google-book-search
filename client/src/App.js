@@ -2,7 +2,7 @@ import React from "react";
 import Search from "./pages/Search";
 import Landing from "./pages/Home";
 
-// adding routes
+// routes
 import { Redirect } from "react-router-dom";
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 
